@@ -1,6 +1,6 @@
 # grpc server
 
-chat style app to learn the basics of grpc
+chat style app to learn the basics of grpc.
 ## Installation
 
 Please make sure you have the protoc buffer installed in your $GOPATH
